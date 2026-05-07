@@ -8,6 +8,7 @@ This code reconstructs 32×32 images from single-pixel detector measurements. It
 
 Compared to traditional methods (DGI, TVAL3), it gives sharper edges and less noise.
 
+If you need experimental data, please contact 2693746021@qq.com.
 ## Requirements
 
 - Python 3.8+
